@@ -1,9 +1,8 @@
 ### Olá sou o JorgEdu1 👋
 
 - 🌱 Estudo Ciência da Computação na UFC - Quixadá
-- 🖥️ Meu Website: https://jorgedu1.github.io/Project_JorgEdu1/#home OU https://jorgedu1.netlify.app/#contact
+- 🖥️ Meu Website: https://jorgedu1.github.io/Project_JorgEdu1/#home
 - 📫 Para contatar: jorge.eduardo@alu.ufc.br
-- 😄 Pronouns: ele/dele
 
  ##
 
