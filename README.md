@@ -5,6 +5,11 @@
 - 📫 Para contatar: jorge.eduardo@alu.ufc.br
 
  ##
+<style>
+a:hover{
+  opacity: 0.9;
+ }
+</style> 
 
 <div align="center">
   <a href="https://github.com/JorgEdu1">
