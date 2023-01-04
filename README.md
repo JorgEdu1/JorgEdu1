@@ -1,4 +1,4 @@
-<h1>Olá sou o JorgEdu1 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
+<h1 align = "center">Olá sou o JorgEdu1 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
 
 - 🌱 Estudo Ciência da Computação na UFC - Quixadá
 - 🖥️ Meu Website: https://jorgedu1.github.io/Project_JorgEdu1/#home
