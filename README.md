@@ -1,5 +1,5 @@
 ### Olá sou o JorgEdu1 
-<div align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"></div>
+<div align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></div>
 
 
 - 🌱 Estudo Ciência da Computação na UFC - Quixadá
