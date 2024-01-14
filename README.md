@@ -3,6 +3,7 @@
 - 🌱 Estudo Ciência da Computação na Universidade Federal do Ceará - Quixadá
 - 🖥️ Meu Website: https://jorgedu1.github.io/Project_JorgEdu1/#home
 - 📫 Para contatar: jorge.eduardo@alu.ufc.br
+- 📚 Atualmente Estudando Js, Ts, NodeJs, React...
 
  ##
 
