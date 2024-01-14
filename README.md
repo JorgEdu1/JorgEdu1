@@ -1,9 +1,9 @@
 <h1 align="center"> Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, eu sou o JorgEdu1!</h1>
 
+- 📚 Atualmente Estudando Js, Ts, NodeJs, React...
 - 🌱 Estudo Ciência da Computação na Universidade Federal do Ceará - Quixadá
 - 🖥️ Meu Website: https://jorgedu1.github.io/Project_JorgEdu1/#home
 - 📫 Para contatar: jorge.eduardo@alu.ufc.br
-- 📚 Atualmente Estudando Js, Ts, NodeJs, React...
 
  ##
 
