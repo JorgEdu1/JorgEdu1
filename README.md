@@ -2,7 +2,7 @@
 
 - 📚 Atualmente Estudando Js, NodeJs, React...
 - 🌱 Estudo Ciência da Computação na Universidade Federal do Ceará - Quixadá
-- 🧑🏻‍💻 Desenvolvo Front-End na <a href="jit.technology">JIT</a>
+- 🧑🏻‍💻 Desenvolvo Front-End na <a href="https://jit.technology/">JIT</a>
 - 🖥️ Meu Website: https://jorgedu1.github.io/Project_JorgEdu1/#home
 - 📫 Para contatar: jorge.eduardo@alu.ufc.br
 
