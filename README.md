@@ -2,7 +2,6 @@
 
 - 📚 Atualmente Estudando Js, NodeJs, React...
 - 🌱 Estudo Ciência da Computação na Universidade Federal do Ceará - Quixadá
-- 🧑🏻‍💻 Atuo como Analista de teste e DevOps na <a href="https://fastef.ufc.br/">FASTEF</a>
 - 🖥️ Meu Website: https://jorgedu1.github.io/Project_JorgEdu1/#home
 - 📫 Para contatar: jorge.eduardo@alu.ufc.br
 
